@@ -15,3 +15,4 @@ LFADS pre-print: https://www.biorxiv.org/content/early/2017/06/20/152884
   - data_HASH/runSpecName/ runSpec-specific lfadsInput folders to allow different alignment matrices
   - including c_factors_dim in data hash
   - adding useSingleDatasetAlignmentMatrix 
+  - testing my own changes whatever
